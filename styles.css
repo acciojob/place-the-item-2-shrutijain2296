@@ -1,23 +1,23 @@
 
 /* Your CSS Code here. */
-.container .item{
+.holder.item{
 	height: 100px;
 	width: 100px;
 }
-.container #item-1{
+.holder #item-1{
 	background-color: green;
 	
 }
-.container #item-2{
+.holder #item-2{
 	background-color: red;
 	
 }
-.container #item-3{
+.holder #item-3{
 	background-color: blue;
 	
 }
 
-.container{
+.holder{
 	display:flex;
 	justify-content: center;
 	flex-wrap: wrap;
